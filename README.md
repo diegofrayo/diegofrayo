@@ -1,13 +1,13 @@
 # 👋 Welcome 
 
 - 👤  I'm **Diego Rayo** | **@diegofrayo**
-- 👀  I'm unemployed at the moment, looking for jobs opportunities | **(React, TypeScript, Node.js, GraphQL)**
-- 🔗  Visit my website to get to know more about me | **[diegofrayo.vercel.app](http://diegofrayo.vercel.app)**
+- 👨‍💻  I'm a Software Developer. Focused on JavaScript, TypeScript, React, Next.js, Tailwind CSS, and Node.js
+- 🔗  Visit my website for getting to know about me | **[diegofrayo.vercel.app](http://diegofrayo.vercel.app)**
 
 # ⚒️ My projects
 
 - **⭐ Active projects:**
-  - [website](https://github.com/diegofrayo/website): This repo contains my website source code. At the moment, this is my main project, I'm working and improving it constantly
+  - [website](https://github.com/diegofrayo/website): This repo contains my website source code. At the moment, this is my main project, I'm working and improving it often
 - 📚 **Abandoned projects:** These are projects that I build to learn how to work some things like schemas validators, react hooks and other stuff. I used some of these projects on my personal projects long time ago, just that
   - [redux-utils](https://github.com/diegofrayo/redux-utils): Enhanced useReducer hook and a redux-duck implementation
   - [styles](https://github.com/diegofrayo/styles): Utilities to create components and css styles using emotion.sh
