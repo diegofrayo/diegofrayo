@@ -2,18 +2,21 @@
 
 - 👤  I'm **Diego Rayo** | **@diegofrayo**
 - 👨‍💻  I'm a Software Developer. Focused on JavaScript, TypeScript, React, Next.js, Tailwind CSS, and Node.js
-- 🔗  Visit my website for getting to know about me | **[diegofrayo.vercel.app](http://diegofrayo.vercel.app)**
+- 🔗  Visit my website to know more about me | **[diegofrayo.vercel.app](http://diegofrayo.vercel.app)**
 
-# ⚒️ My projects
+# ⚒️ My repos
 
-- **⭐ Active projects:**
-  - [website](https://github.com/diegofrayo/website): This repo contains my website source code. At the moment, this is my main project, I'm working and improving it often
-- 📚 **Abandoned projects:** These are projects that I build to learn how to work some things like schemas validators, react hooks and other stuff. I used some of these projects on my personal projects long time ago, just that
+- **⭐ Active:**
+  - [website](https://github.com/diegofrayo/website): My personal website, this is my main project and is still under development
+  - [playground](https://github.com/diegofrayo/playground): A playground to code! (React, JavaScript, HTML/CSS/JS, Node.js, Svelte)
+  - [diegofrayo-chrome-extension](https://github.com/diegofrayo/diegofrayo-chrome-extension): A simple extension to accomplish some useful tasks for me
+  - [contacts-app](https://github.com/diegofrayo/contacts-app): App for learning purposes, written two times, using plain JavaScript and using React too
+- 📚 **Abandoned:** These are projects that I build to learn how to work some things like schemas validators, react hooks and other stuff. I used some of these projects on my personal projects long time ago, just that
   - [redux-utils](https://github.com/diegofrayo/redux-utils): Enhanced useReducer hook and a redux-duck implementation
   - [styles](https://github.com/diegofrayo/styles): Utilities to create components and css styles using emotion.sh
   - [vlt](https://github.com/diegofrayo/vlt): Library to validate types and object schemes
   - [form](https://github.com/diegofrayo/form): React component to build and validate forms easily
-- 🤖 **Old projects:** These are projects that I build to learn some technologies a little different to traditional web-apps and also for personal use
+- 🤖 **Old:** These are projects that I build to learn some technologies different to traditional web-apps and also for personal use
   - [electron-application](https://github.com/diegofrayo/electron-application): An electron application
   - [rss-feed-reader-chrome-extension](https://github.com/diegofrayo/rss-feed-reader-chrome-extension): RSS Feed Reader extension for Chrome
   - [readerss](https://github.com/diegofrayo/readerss): RSS Feed Reader for Android
