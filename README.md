@@ -1,7 +1,7 @@
 # 👋 Welcome 
 
 - 👤  I'm **Diego Rayo** | **@diegofrayo**
-- 👨‍💻  I'm a Software Developer. Focused on JavaScript, TypeScript, React, Next.js, Tailwind CSS, and Node.js
+- 👨‍💻  I'm a Software Developer at Arlene.io | Focused on JavaScript, TypeScript, React, Next.js, Tailwind CSS, and Node.js
 - 🔗  Visit my website to know more about me | **[diegofrayo.vercel.app](http://diegofrayo.vercel.app)**
 
 # ⚒️ My repos
@@ -20,3 +20,11 @@
   - [electron-application](https://github.com/diegofrayo/electron-application): An electron application
   - [rss-feed-reader-chrome-extension](https://github.com/diegofrayo/rss-feed-reader-chrome-extension): RSS Feed Reader extension for Chrome
   - [readerss](https://github.com/diegofrayo/readerss): RSS Feed Reader for Android
+
+---
+
+<details> 
+	<summary>📊 Github stats</summary>
+	<br>
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diegofrayo&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" align="top" style="max-width:100%;">
+</details>
