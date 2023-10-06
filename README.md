@@ -7,6 +7,7 @@
 # ⚒️ Repositories
 
 - **⭐ Active:**
+  - [website](https://github.com/diegofrayo/website): My personal website
   - [playground](https://github.com/diegofrayo/playground): This repo contains some empty projects to experiment, practice, and learn about js, react, svelte, html, and node.
   - [diegofrayo-chrome-extension](https://github.com/diegofrayo/diegofrayo-chrome-extension): A simple Chrome extension to accomplish some useful tasks for my personal use.
   - [contacts-app](https://github.com/diegofrayo/contacts-app): App for learning purposes, written two times, using plain JavaScript and using React too.
